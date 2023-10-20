@@ -1,5 +1,10 @@
 # data-app-base
-Simple, efficient and clean express/vanilla data app base. Greatly reduce the time needed to build data apps with this versatile base.
+Simple, efficient and clean express/vanilla data app base. Greatly reduce the time needed to build data apps with this versatile base. Originally made for an [AI Detector](https://detect.thisisadomain.lol/) (collects verdicts from multiple sources) and stripped down into this repository
+
+## Examples
+- [demo](https://dab.jooo.tech/)
+- [OSINT Base](https://osint.thisisadomain.lol/)
+- [AI Detectur](https://detect.thisisadomain.lol/)
 
 ## Getting Started
 ### Installation
