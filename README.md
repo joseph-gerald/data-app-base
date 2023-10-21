@@ -9,7 +9,8 @@ Simple, efficient and clean express/vanilla data app base. Greatly reduce the ti
 ## Getting Started
 ### Installation
 ```bash
-git clone https://github.com/joseph-gerald/data-app-base.git
+# Create you own repo using this as a tempalte by using the "Use this template" button
+git clone %your templated repo%.git
 npm i
 npm i nodemon -g # optional
 npm run start/dev
@@ -19,7 +20,7 @@ npm run start/dev
 2. Rename single.html or multi.html as index.html
 3. Delete the other page
 4. Go to src/script/base/ (multi.js or single.js depending on which one you selected)
-5. Modify the script to do what you want
+5. Modify the script to do what you want (by default just fetches random text from [baconipsum.com](https://baconipsum.com/) and images from [thedogapi.com](https://www.thedogapi.com/)
 
 ## Features
 ### Simple
