@@ -9,7 +9,7 @@ Simple, efficient and clean express/vanilla data app base. Greatly reduce the ti
 ## Getting Started
 ### Installation
 ```bash
-# Create you own repo using this as a tempalte by using the "Use this template" button
+# Create you own repo using this as a template by using the "Use this template" button
 git clone %your templated repo%.git
 npm i
 npm i nodemon -g # optional
