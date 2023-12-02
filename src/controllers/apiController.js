@@ -5,11 +5,11 @@ exports.ping = (req, res) => {
 };
 
 exports.getRobots = async (req, res) => {
-    res.sendFile(path.join(__dirname, '..', 'public', 'robots/robots.txt'));
+    res.sendFile(path.join(__dirname, '..', 'public', 'robot/robots.txt'));
 };
 
 exports.getRobotsMinified = async (req, res) => {
-    res.sendFile(path.join(__dirname, '..', 'public', 'robots/robots.min.txt'));
+    res.sendFile(path.join(__dirname, '..', 'public', 'robot/robots.min.txt'));
 };
 
 exports.query = async (req, res) => {
