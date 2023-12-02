@@ -1,3 +1,5 @@
+const path = require('path');
+
 exports.ping = (req, res) => {
     res.send('pong');
 };
