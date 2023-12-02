@@ -31,9 +31,9 @@ My base is made with responsivity and compatibility in mind. The base support mo
 ###### PageSpeed Results
 | Report URL | Performance (%) | Accessibility (%) | Best Practices (%) | SEO (%) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Demo Landing Page](https://pagespeed.web.dev/analysis/https-dev-jooo-tech/67py7ohjih?form_factor=mobile)  | 100% | 100% | 100% | 100% |
-| [Demo Single Line](https://pagespeed.web.dev/analysis/https-dev-jooo-tech-single-html/mrvi78zg7a?form_factor=mobile)  | 100% | 100% | 100% | 100% |
-| [Demo Multi Line](https://pagespeed.web.dev/analysis/https-dev-jooo-tech-multi-html/g5lxrvq96y?form_factor=mobile)  | 100% | 100% | 100% | 100% |
+| [Demo Landing Page](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fdab.jooo.tech%2F)  | 100% | 100% | 100% | 100% |
+| [Demo Single Line](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fdab.jooo.tech%2Fsingle.html)  | 100% | 100% | 100% | 100% |
+| [Demo Multi Line](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fdab.jooo.tech%2Fmulti.html)  | 100% | 100% | 100% | 100% |
 ### Performant
 The base was made to be as performant as possible minimizing work needed on page load.
 ### Visual
