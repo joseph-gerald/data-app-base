@@ -4,8 +4,8 @@ const errorController = require('./controllers/errorController');
 const apiController = require('./controllers/apiController');
 
 // webcrawlers
-router.post('/robots.txt', apiController.getRobots);
-router.post('/robots.min.txt', apiController.getRobotsMinified);
+router.get('/robots.txt', apiController.getRobots);
+router.get('/robots.min.txt', apiController.getRobotsMinified);
 
 // api logic
 router.post('/api/v1/query', apiController.query);
