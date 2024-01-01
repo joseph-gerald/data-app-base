@@ -1,4 +1,11 @@
+<p align="center">
+  <a href="https://dab.jooo.tech/">
+    <img src="https://github.com/joseph-gerald/data-app-base/assets/73967013/bb8ffae5-7814-45af-8daf-627b7e5a959b" alt="Data App Base Logo">
+  </a>
+</p>
+
 # data-app-base
+
 Simple, efficient and clean express/vanilla data app base. Greatly reduce the time needed to build data apps with this versatile base. Originally made for an [AI Detector](https://detect.thisisadomain.lol/) (collects verdicts from multiple sources) and stripped down into this repository
 
 ## Examples
