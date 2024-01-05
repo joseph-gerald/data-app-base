@@ -31,7 +31,7 @@ npm run start/dev
 
 ## Features
 ### Simple
-The code is made to be as simple as possible allowing only requiring knowledge beforehand on basic html, css and js.
+The code is made to be as simple as possible allowing only requiring a prerequisite on basic html, css and js.
 ### Responsive
 My base is made with responsivity and compatibility in mind. The base support mobile devices and all popular screen dimensions straight out of the box without any extra work needed.
 ### SEO optimized
