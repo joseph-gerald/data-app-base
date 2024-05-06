@@ -12,6 +12,7 @@ Simple, efficient and clean express/vanilla data app base. Greatly reduce the ti
 - [demo](https://dab.jooo.tech/)
 - [OSINT Base](https://osint.thisisadomain.lol/)
 - [AI Detectur](https://detect.thisisadomain.lol/)
+- [Book Query](https://github.com/joseph-gerald/book-query)
 
 ## Getting Started
 ### Installation
