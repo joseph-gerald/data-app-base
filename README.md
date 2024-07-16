@@ -10,7 +10,6 @@ Simple, efficient and clean express/vanilla data app base. Greatly reduce the ti
 
 ## Examples
 - [demo](https://dab.jooo.tech/)
-- [OSINT Base](https://osint.thisisadomain.lol/)
 - [AI Detection Aggregator](https://github.com/joseph-gerald/ai-detection-aggregator)
 - [Book Query](https://github.com/joseph-gerald/book-query)
 
